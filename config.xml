@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="lgarin211.github.io" version="1.0.0" xmlns="http://www.w3.org/ns/widgets"
+<widget id="lgarin211.eyeai.com" version="1.0.0" xmlns="http://www.w3.org/ns/widgets"
     xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>YOUR APPS NAME</name>
-    <description>YOUR APPS DESCRIPTION</description>
+    <name>EyeAi</name>
+    <description>This Apps is AI APPS</description>
     <author email="lagustinus211@gmail.com" href="https://lgarin211.github.io">
-        YOUR EMAIL
+        lagustinus211@gmail.com
     </author>
     <content src="index.html" />
-    <allow-navigation href="https://*" />
+    <allow-navigation href="http://*.lahoras.my.id/*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
-    <icon src="res/icon.png" />
+    <icon src="res/eye.png" />
 
     <preference name="FadeSplashScreenDuration" value="300" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
     <preference name="SplashScreen" value="none" />
     <preference name="SplashScreenDelay" value="1000" />
     <preference name="AndroidWindowSplashScreenBackground" value="#121212" />
-    <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/icon.png" />
+    <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/eye.png" />
 
 </widget>
