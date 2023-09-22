@@ -16,7 +16,7 @@
     <preference name="SplashShowOnlyFirstTime" value="false" />
     <preference name="SplashScreen" value="none" />
     <preference name="SplashScreenDelay" value="1000" />
-    <preference name="AndroidWindowSplashScreenBackground" value="#121212" />
+    <preference name="AndroidWindowSplashScreenBackground" value="#138b93" />
     <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/eye.png" />
 
 </widget>
